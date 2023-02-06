@@ -1,35 +1,5 @@
 # Getting Started with Create React App
 
-<<<<<<< HEAD
-## Download
-```
-git clone https://github.com/jakeenea51/Task-App.git
-```
-
-## Install requirements
-```
-cd task-app
-npm install
-```
-
-## Connect database
-To connect to your database, create a firebase project and insert the configuration information into the ```task-app/src/fire.js``` file.
-
-## Start server
-```
-cd task-app
-npm start
-```
-
-## Usage
-1. Register/login with email/password credentials
-2. Create tasks for others to accept
-3. Accept tasks created by others
-4. View/remove accepted and created tasks
-
-## Demo
-
-=======
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -98,5 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
->>>>>>> 29da8b327825624c7d1facee29c9baa7f30917ba
