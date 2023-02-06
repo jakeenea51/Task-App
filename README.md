@@ -13,7 +13,7 @@ npm install
 ```
 
 ## Connect database
-To connect to your database, create a firebase project and insert the configuration information into the ```fire.js``` file.
+To connect to your database, create a firebase project and insert the configuration information into the ```task-app/src/fire.js``` file.
 
 ## Start server
 ```
